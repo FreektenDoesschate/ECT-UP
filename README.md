@@ -23,14 +23,15 @@ Multiple ECT-imaging datasets were acquired:
 ## Acquired data
 
 
-<detail>__Clinical data__
+<detail>
+    <summary> __Clinical data__ </summary>
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
 | Seizure threshold 	|    X    	|            	|     X   	|           	|
 |        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE 	|    X    	|           	|     X    	|     X     	|
-    <detail>
+    </detail>
 
 
 __structural MRI, resting-state functional MRI, Diffusion Tensor Imaging (DTI)__
