@@ -124,4 +124,4 @@ We aim to perform state-of-the-art quality control for each datamodality that wa
 
 ## Processing (1st-level analysis)
 
-To make the proces from hypothesis to paper easier and faster, we aim to extract features from each datamodality that can be used with ease. [Here](UP-Processing) you'll find the list of datafeatures we aim to analyse and the current status. 
+To make the proces from hypothesis to paper easier and faster, we aim to extract features from each datamodality that can be used with ease. [Here](UP-processing) you'll find the list of datafeatures we aim to analyse and the current status. 
