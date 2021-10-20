@@ -27,7 +27,7 @@ __Clinical data__
 | Seizure threshold 	|    X    	|            	|     X   	|           	|
 |        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           Synapse 	|    X    	|           	|     X    	|     X     	|
+|           SYNAPSE 	|    X    	|           	|     X    	|     X     	|
 
 __structural MRI, resting-state functional MRI, Diffusion Tensor Imaging (DTI)__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
@@ -35,7 +35,7 @@ __structural MRI, resting-state functional MRI, Diffusion Tensor Imaging (DTI)__
 | Seizure threshold 	|    X    	|            	|          	|           	|
 |        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           Synapse 	|    X    	|      X     	|     X    	|     X     	|
+|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
 
 __Magnetic resonance spectroscopy__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
@@ -43,7 +43,7 @@ __Magnetic resonance spectroscopy__
 | Seizure threshold 	|          	|            	|          	|           	|
 |        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           Synapse 	|    X    	|      X     	|     X    	|     X     	|
+|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
 
 __ASL__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
@@ -51,7 +51,7 @@ __ASL__
 | Seizure threshold 	|        	|            	|          	|           	|
 |        Schema-ECT 	|        	|            	|         	|             	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           Synapse 	|    X    	|      X     	|     X    	|     X     	|
+|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
 
 __EEG__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
@@ -59,7 +59,7 @@ __EEG__
 | Seizure threshold 	|        	|            	|          	|           	|
 |        Schema-ECT 	|        	|            	|         	|            	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           Synapse 	|    X    	|      X     	|     X    	|     X     	|
+|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
 
 
 
