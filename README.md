@@ -19,9 +19,11 @@ Multiple ECT-imaging datasets were acquired:
         * EEG was acquired pre- and post-ECT, and at follow-up (?). 
      * Status: data acquisition is finished.
 * SNOEP dataset
-     * This dataset was acquired for ...  Status: 
+     * This dataset was acquired for ...  
+     * Status: acquisition is ongoing. 
 * Synapse dataset
-     * This dataset was acquired for ...  Status: 
+     * This dataset was acquired for ...
+     *      * Status: acquisition is ongoing. 
 
 
 ## Preprocessing
