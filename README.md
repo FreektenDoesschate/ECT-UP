@@ -20,11 +20,28 @@ Multiple ECT-imaging datasets were acquired:
      * Status: data acquisition is finished.
 * SNOEP dataset
      * This dataset was acquired for ...  
+        * Clinical data was acquired pre- and post-ECT, and at follow up.
+        * sMRI was acquired pre- and post-ECT, and at follow-up.
+        * rs-fMRI was acquired pre- and post-ECT, and at follow-up.
+        * DTI was acquired pre- and post-ECT, and at follow-up. 
+        * EEG was acquired pre- and post-ECT, and at follow-up. 
+     * Status: data acquisition is finished.
      * Status: acquisition is ongoing. 
 * Synapse dataset
      * This dataset was acquired for ...
      * Status: acquisition is ongoing. 
 
+
+
+## available data
+
+__sMRI__
+|      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
+|:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
+| Seizure threshold 	|    X    	|            	|          	|           	|
+|        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
+|             SNOEP 	|    X    	|            	|     X    	|     X     	|
+|           Synapse 	|    X    	|      X     	|     X    	|     X     	|
 
 ### Preprocessing
 
