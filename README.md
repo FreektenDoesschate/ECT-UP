@@ -32,7 +32,8 @@ Multiple ECT-imaging datasets were acquired:
 |        Schema-ECT |    X    	|            	|     X    	|     X     	|
 |            SNOEP 	|    X    	|            	|     X    	|     X     	|
 |          SYNAPSE 	|    X    	|           	|     X    	|     X     	|
-See [here](#variables), for a list of acquired variables
+
+    See [here](#variables), for a list of acquired variables
 </details>
 
 
