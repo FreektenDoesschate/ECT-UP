@@ -35,13 +35,31 @@ Multiple ECT-imaging datasets were acquired:
 
 ## available data
 
-__sMRI__
+__sMRI,rs-fMRI,DTI__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
 | Seizure threshold 	|    X    	|            	|          	|           	|
 |        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           Synapse 	|    X    	|      X     	|     X    	|     X     	|
+
+__ASL__
+|      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
+|:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
+| Seizure threshold 	|        	|            	|          	|           	|
+|        Schema-ECT 	|        	|            	|         	|             	|
+|             SNOEP 	|    X    	|            	|     X    	|     X     	|
+|           Synapse 	|    X    	|      X     	|     X    	|     X     	|
+
+__EEG__
+|      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
+|:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
+| Seizure threshold 	|        	|            	|          	|           	|
+|        Schema-ECT 	|        	|            	|         	|            	|
+|             SNOEP 	|    X    	|            	|     X    	|     X     	|
+|           Synapse 	|    X    	|      X     	|     X    	|     X     	|
+
+
 
 ### Preprocessing
 
