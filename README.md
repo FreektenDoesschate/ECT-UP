@@ -50,7 +50,7 @@ Multiple ECT-imaging datasets were acquired:
     
 
 <details>
-<summary> <b>resting-state fMRI MRI</b> </summary>
+<summary> <b>resting-state fMRI</b> </summary>
 
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
