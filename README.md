@@ -29,6 +29,7 @@ __Clinical data__
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE 	|    X    	|           	|     X    	|     X     	|
 
+
 __structural MRI, resting-state functional MRI, Diffusion Tensor Imaging (DTI)__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
@@ -36,6 +37,7 @@ __structural MRI, resting-state functional MRI, Diffusion Tensor Imaging (DTI)__
 |        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+
 
 __Magnetic resonance spectroscopy__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
@@ -45,6 +47,7 @@ __Magnetic resonance spectroscopy__
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
 
+
 __ASL__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
@@ -52,6 +55,7 @@ __ASL__
 |        Schema-ECT 	|        	|            	|         	|             	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+
 
 __EEG__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
