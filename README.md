@@ -36,7 +36,9 @@ Multiple ECT-imaging datasets were acquired:
 </details>
 
 
-__structural MRI, resting-state functional MRI, Diffusion Tensor Imaging (DTI)__
+<details>
+<summary> <b>structural MRI</b> </summary>
+
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
 | Seizure threshold 	|    X    	|            	|          	|           	|
@@ -44,33 +46,71 @@ __structural MRI, resting-state functional MRI, Diffusion Tensor Imaging (DTI)__
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
 
+</details>    
+    
 
-__Magnetic resonance spectroscopy__
+<details>
+<summary> <b>resting-state fMRI MRI</b> </summary>
+
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold 	|          	|            	|          	|           	|
+| Seizure threshold 	|    X    	|            	|          	|           	|
 |        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
 
+</details>   
+ 
+ 
+<details>
+<summary> <b>Diffusion Tensor Imaging (DTI)</b> </summary>
 
-__ASL__
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold 	|        	|            	|          	|           	|
-|        Schema-ECT 	|        	|            	|         	|             	|
+| Seizure threshold 	|    X    	|            	|          	|           	|
+|        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
 
+</details>      
+    
 
-__EEG__
+<details>
+<summary> <b>Magnetic Resonance Spectroscopy (MRS)</b> </summary>
+
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold 	|        	|            	|          	|           	|
-|        Schema-ECT 	|        	|            	|         	|            	|
+| Seizure threshold 	|       	|            	|          	|           	|
+|        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
 |             SNOEP 	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
 
+</details>     
+
+<details>
+<summary> <b>Arterial Spin Labeling (ASL)</b> </summary>
+
+|      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
+|:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
+| Seizure threshold 	|       	|            	|          	|           	|
+|        Schema-ECT 	|       	|            	|         	|           	|
+|             SNOEP 	|    X    	|            	|     X    	|     X     	|
+|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+
+</details>     
+
+
+<details>
+<summary> <b>Electroencephalography (EEG)</b> </summary>
+
+|      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
+|:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
+| Seizure threshold 	|       	|            	|          	|           	|
+|        Schema-ECT 	|       	|            	|         	|           	|
+|             SNOEP 	|    X    	|            	|     X    	|     X     	|
+|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+
+</details>   
 
 
 ## Preprocessing
