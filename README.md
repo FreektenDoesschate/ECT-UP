@@ -24,8 +24,8 @@ Multiple ECT-imaging datasets were acquired:
 
 
 <details>
-    <summary> <b>Clinical data</b> </summary> <br />
-    
+    <summary> <b>Clinical data</b> </summary> 
+    <br />
     | Datasets | pre-ECT | during-ECT | post-ECT | follow-up |
     | ---------- | ---------- | ---------- |--------|---------  |
     | Seizure threshold | X	|  | X 	| 	|
