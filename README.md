@@ -3,10 +3,10 @@ This repository contains the pipeline for uniform preprocessing, quality control
 
 ## Datasets, -types and -timepoints
 Multiple ECT-imaging datasets were acquired at Rijnstate hospital Arnhem and UMC Amsterdam:
-*Seizure threshold dataset
-*Schema-ECT dataset
-*SNOEP dataset
-*Synapse dataset
+* Seizure threshold dataset
+* Schema-ECT dataset
+* SNOEP dataset
+* Synapse dataset
 
 ## Preprocessing
 
