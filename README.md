@@ -24,7 +24,7 @@ Multiple ECT-imaging datasets were acquired:
 
 
 <details>
-<summary> <b>Clinical data</b> </summary>
+<summary> <b>Clinical and demographic data</b> </summary>
     
 |      Datasets     | pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:|:-------:	|:----------:	|:--------:	|:---------:	|
