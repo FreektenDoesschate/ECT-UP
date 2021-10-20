@@ -33,7 +33,7 @@ Multiple ECT-imaging datasets were acquired:
     |             SNOEP 	|    X    	|            	|     X    	|     X     	|
     |           SYNAPSE 	|    X    	|           	|     X    	|     X     	|
     
-    </detail>
+</detail>
 
 
 __structural MRI, resting-state functional MRI, Diffusion Tensor Imaging (DTI)__
