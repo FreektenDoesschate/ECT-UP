@@ -1,7 +1,7 @@
 # ECT-imaging-pipeline
 This repository contains the pipeline for uniform preprocessing, quality control and processing for electroconvulsive therapy (ECT) imaging data acquired in Rijnstate hospital Arnhem and UMC Amsterdam. Furthermore, we provide documentation on the pipeline and example pieces of text that describe the analysis for your manuscript. 
 
-### Datasets, -types and -timepoints
+## Datasets
 Multiple ECT-imaging datasets were acquired:
 * Seizure threshold dataset
      * This dataset was acquired in order to study neuroimaging and clinical predictors of seizure threshold in ECT. See related papers on [clinical data](https://link.springer.com/article/10.1007/s00406-012-0342-7/tables/1). For papers on the structural MRI data, see [here](https://www.sciencedirect.com/science/article/pii/S1935861X12002094?casa_token=cAC-WLm3LVcAAAAA:gm4tDvav6UkNTPFnTLWB_7c2fY4bnB_o-BNe3HnInR2mOL0qw0iFPD7MNEdiymz7QwEy4v7DvGk) and [here](https://www.frontiersin.org/articles/10.3389/fpsyt.2014.00169/full). And another paper on the [Resting-state functional MRI (rs-fMRI) data](https://www.nature.com/articles/mp201478). 
@@ -63,7 +63,7 @@ __EEG__
 
 
 
-### Preprocessing
+## Preprocessing
 
 [FMRIprep](https://fmriprep.org/en/stable/)
 
