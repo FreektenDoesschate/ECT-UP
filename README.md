@@ -26,12 +26,12 @@ Multiple ECT-imaging datasets were acquired:
 <details>
     <summary> <b>Clinical data</b> </summary> 
     <br />
-    | Datasets | pre-ECT | during-ECT | post-ECT | follow-up |
-    | ---------- | ---------- | ---------- |--------|---------  |
-    | Seizure threshold | X	|  | X 	| 	|
-    | Schema-ECT | X |  | X	|  X  |
-    | SNOEP 	|  X  |	  |  X  |  X  |
-    | SYNAPSE 	|  X  |   |  X  |  X  |
+    |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
+    |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
+    | Seizure threshold 	|    X    	|            	|          	|           	|
+    |        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
+    |             SNOEP 	|    X    	|            	|     X    	|     X     	|
+    |           SYNAPSE 	|    X    	|           	|     X    	|     X     	|
     
 </details>
 
