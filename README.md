@@ -115,9 +115,7 @@ See [here](#variables), for a list of demographic and clinical acquired variable
 
 ## Preprocessing
 
-[FMRIprep](https://fmriprep.org/en/stable/)
-
-[QSIprep](https://qsiprep.readthedocs.io/en/latest/)
+The goal is to perform uniform preprocessing for all modalities across datasets. Click [here](#Preprocessing) for a detailed description of the preprocessing steps taken. Also we provide 
 
 
 ## Quality Control (QC)
