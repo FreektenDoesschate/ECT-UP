@@ -118,3 +118,9 @@ See [here](#variables), for a list of demographic and clinical acquired variable
 [FMRIprep](https://fmriprep.org/en/stable/)
 
 [QSIprep](https://qsiprep.readthedocs.io/en/latest/)
+
+
+## Quality Control (QC)
+
+
+## Processing (1st-level analysis)
