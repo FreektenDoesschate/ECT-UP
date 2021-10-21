@@ -115,7 +115,7 @@ See [here](#variables), for a list of demographic and clinical acquired variable
 
 ## Preprocessing
 
-The goal is to perform uniform preprocessing for all modalities across datasets. Click [here](UP-preprocessing) for a detailed description of the preprocessing steps taken. For each modality we provide code that was used for preprocessing and example texts for your manuscript. 
+The goal is to perform uniform preprocessing for all modalities across datasets. Click [here](UP-preprocessing) for a detailed description, code, and status of the preprocessing steps taken. We also provide example texts for your manuscript.
 
 
 ## Quality Control (QC)
