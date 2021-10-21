@@ -115,13 +115,26 @@ See [here](#variables), for a list of demographic and clinical acquired variable
 
 ## Preprocessing
 
-The goal is to perform uniform preprocessing for all modalities across datasets. Click [here](UP-preprocessing) for a detailed description, code, and status of the preprocessing steps taken. We also provide example texts for your manuscript.
+The goal is to perform uniform preprocessing for all modalities across datasets. 
+For more info on preprocessing, click [here](UP-preprocessing). For each modality we procide:
+* A detailed description of the preprocessing steps and software used
+* Code that was used to perform preprocessing
+* The current status of the preprocessing for each modality
+* Example texts on the preprocessing procedurefor your manuscript.
 
 
 ## Quality Control (QC)
 
-We aim to perform state-of-the-art quality control for each datamodality that was acquired. Quality was both assessed using quality metrics and visual inspection. Click [here](QC-UP) for more information on the QC proces for different modalities.
+We aim to perform state-of-the-art quality control for each datamodality that was acquired. Quality was both assessed using quality metrics and visual inspection. [Here](QC-UP) you'll find for each datamodality: 
+* A detailed description of the QC process
+* The current status of the QC process 
+* Example texts on the QC proces to include in your manuscript
 
 ## Processing (1st-level analysis)
 
-To make the proces from hypothesis to paper easier and faster, we aim to extract features from each datamodality that can be used with ease. [Here](UP-processing) you'll find the list of datafeatures we aim to extract and the current status of the analysis. 
+To make the proces from hypothesis to paper easier and faster, we aim to extract features from each datamodality that can be used with ease. [Here](UP-processing) you'll find for each modality:
+* The list of datafeatures we aim to extract
+* The code we used for analysis
+* Essential papers on the performed analysis
+* The current status of the analysis
+* post-processing QC steps (?) 
