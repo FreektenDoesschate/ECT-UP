@@ -6,7 +6,7 @@
 
 |                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
 |:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
-|        Regional volume                    |  e.g., [ten Doesschate et al. (2014)](https://www.frontiersin.org/articles/10.3389/fpsyt.2014.00169/full)       |   Freesurfer [recon-all](https://surfer.nmr.mgh.harvard.edu/fswiki/recon-all)      |         | awaiting |       |       |
+|        Regional volume                    |  e.g., [ten Doesschate et al. (2014)](https://www.frontiersin.org/articles/10.3389/fpsyt.2014.00169/full)       |   Freesurfer [recon-all](https://surfer.nmr.mgh.harvard.edu/fswiki/recon-all)      |         | awaiting |  post-processing QC [Paper](https://www.sciencedirect.com/science/article/pii/S1053811921004511)     |       |
 |        Cortical thickness                 |  e.g., [Qiu et al. (2014)](https://www.nature.com/articles/tp201418)       |   Freesurfer [recon-all](https://surfer.nmr.mgh.harvard.edu/fswiki/recon-all)        |         | awaiting |       |       |
   
 </details>
