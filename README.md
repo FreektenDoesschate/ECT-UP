@@ -127,7 +127,7 @@ The goal is to perform uniform preprocessing for all modalities across datasets.
 
 ## Quality Control (QC)
 
-We aim to perform state-of-the-art quality control for each datamodality that was acquired. Quality was both assessed using quality metrics and visual inspection. [Here](QC-UP) you'll find for each modality: 
+We aim to perform state-of-the-art quality control for each datamodality that was acquired. Quality was both assessed using quality metrics and visual inspection. [Here](UP-QC) you'll find for each modality: 
 * A detailed description of the QC process
 * The current status of the QC process 
 * Example texts on the QC proces to include in your manuscript
