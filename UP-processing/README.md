@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary><b>resting-state fMRI</b></summary>
+  <summary><b>Structural MRI</b></summary>
 
 |                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
 |:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
@@ -27,4 +27,61 @@
 | Percent amplitude of fluctuations (perAF) |  [Jia et al. (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227021)      |   [SPM RESTplus](http://restfmri.net/forum/restplus)       |         |   awaiting     |  Summarized using FS segmentation and/or Power atlas   |       |
 |               Regional homogeneity (ReHo) |  [Yao et al. (2009)](https://www.sciencedirect.com/science/article/pii/S0165032708004199?casa_token=4q0fY8hRUZUAAAAA:gVFzKTOI2fFTD1n5hvx3Sq3lES1YpcLJWGPlthNe5snEmWesJz65fZ6BfIRTuZV6MKs9xuBWj1SC), [Zang et al. (2004)](https://www.sciencedirect.com/science/article/pii/S1053811904000035?casa_token=jWlLaHefMVMAAAAA:RK6alYBCO_YtSgYslr7_CDWfvLzWt9QfrFXz9xIcAtyNWWQd3OkYvv6A2tpJDXt-Y66LcxJw-SEy)        |  [DPARSF](https://www.frontiersin.org/articles/10.3389/fnsys.2010.00013/full)     |         |    awaiting    |    Summarized using FS segmentation and/or Power atlas       |      |
 
+</details>
+
+<details>
+  <summary><b>DTI</b></summary>
+
+|                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
+|:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+  
+</details>
+
+
+<details>
+  <summary><b>MRS</b></summary>
+
+|                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
+|:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+  
+</details>
+
+
+<details>
+  <summary><b>ASL</b></summary>
+
+|                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
+|:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+  
+</details>
+
+<details>
+  <summary><b>EEG</b></summary>
+
+|                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
+|:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+  
+</details>
+
+<details>
+  <summary><b>Ictal-EEG</b></summary>
+
+|                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
+|:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+  
 </details>
