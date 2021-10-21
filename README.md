@@ -139,6 +139,6 @@ To make the proces from hypothesis to paper easier and faster, we aim to extract
 * The code we used for analysis
 * Essential papers on the performed analysis
 * The current status of the analysis
-* Post-processing QC steps (?) 
+* Post-processing QC checks? 
 
 ## Final dataformats
