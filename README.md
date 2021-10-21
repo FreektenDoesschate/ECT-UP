@@ -142,3 +142,13 @@ To make the proces from hypothesis to paper easier and faster, we aim to extract
 * Post-processing QC checks? 
 
 ## Final dataformats
+
+We aim to provide two dataformats for your final analysis:
+* The dataformat that is provided by the specific 1st-level analysis (e.g., IC maps and weights for the ICA analysis on rs-fMRI data)
+* We aim to provide each feature in csv format that easy to load into your statistics software of choice (SPSS/MATLAB/R/Python etc)
+
+
+## Data availability
+Data can be accessed in two ways (?):
+* All data (in raw, intermediate, processed, and csv-file format) will be available through the AMC psychiatry research server. 
+* By reasonable request, csv files on specific features can be provided to perform analysis outside of the server (e.g. on your own computer).
