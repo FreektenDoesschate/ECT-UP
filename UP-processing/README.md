@@ -1,5 +1,20 @@
 # Processing
 
+
+<details>
+  <summary><b>resting-state fMRI</b></summary>
+
+|                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
+|:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+|                                           |         |         |         | awaiting |       |       |
+  
+</details>
+
+
+
+
 <details>
   <summary><b>resting-state fMRI</b></summary>
 
