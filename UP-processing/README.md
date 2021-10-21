@@ -1,6 +1,7 @@
 # Processing
 
-rs-fMRI
+<details>
+  <summary>rs-fMRI</summary>
 
 |                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
 |:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
@@ -11,6 +12,6 @@ rs-fMRI
 | Percent amplitude of fluctuations (perAF) |  [Jia et al. (2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227021)      |   [SPM RESTplus](http://restfmri.net/forum/restplus)       |         |   awaiting     |  Summarized using FS segmentation and/or Power atlas   |       |
 |               Regional homogeneity (ReHo) |        |          |         |    awaiting    |   Summarized using FS segmentation and/or Power atlas       |      |
 
-
+</details>
 
 QC of freesurfer segmentation: [Qoala-T](https://www.sciencedirect.com/science/article/pii/S1053811919300138)
