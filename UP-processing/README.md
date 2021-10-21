@@ -1,7 +1,7 @@
 # Processing
 
 <details>
-  <summary>rs-fMRI</summary>
+  <summary><b>resting-state fMRI</b></summary>
 
 |                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
 |:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
@@ -13,5 +13,3 @@
 |               Regional homogeneity (ReHo) |        |          |         |    awaiting    |   Summarized using FS segmentation and/or Power atlas       |      |
 
 </details>
-
-QC of freesurfer segmentation: [Qoala-T](https://www.sciencedirect.com/science/article/pii/S1053811919300138)
