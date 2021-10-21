@@ -15,7 +15,7 @@ Multiple ECT-imaging datasets were acquired:
      * Status: acquisition is ongoing. 
 * SYNAPSE dataset
      * In the SYNAPSE study, ECT is primarily used as a human model for epilepsy. Multiple pharmacotherapeutic interventions are studied to reduce post-ictal confusion. One of the hallmarks of this study is its acquisition of high-quality EEG data _during_ and after the seizure induced by ECT. Also multiple MRIs were acquired 30 minutes after the seizure.
-     * Status: acquisition is ongoing. 
+     * Status: acquisition is ongoing.
 
 
 
@@ -137,6 +137,6 @@ To make the proces from hypothesis to paper easier and faster, we aim to extract
 * The code we used for analysis
 * Essential papers on the performed analysis
 * The current status of the analysis
-* post-processing QC steps (?) 
+* Post-processing QC steps (?) 
 
 ## Final dataformats
