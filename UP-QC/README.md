@@ -6,4 +6,5 @@
 
 ## post-processing QC
 
-supervised QC of freesurfer segmentation: [Qoala-T](https://www.sciencedirect.com/science/article/pii/S1053811919300138)
+
+For QC on freesurfer segmentation outputs, see [Sánchez et al., 2021](https://www.sciencedirect.com/science/article/pii/S1053811921004511)
