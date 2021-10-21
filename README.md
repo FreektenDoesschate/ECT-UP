@@ -115,9 +115,7 @@ See [here](#variables), for a list of demographic and clinical acquired variable
 </details>   
 
 
-## Header 1
-
-### Preprocessing
+## Preprocessing
 
 The goal is to perform uniform preprocessing for all modalities across datasets. 
 [Here](UP-preprocessing) we provide for each modality:
@@ -127,14 +125,14 @@ The goal is to perform uniform preprocessing for all modalities across datasets.
 * Example texts on the preprocessing procedurefor your manuscript.
 
 
-### Quality Control (QC)
+## Quality Control (QC)
 
 We aim to perform state-of-the-art quality control for each datamodality that was acquired. Quality was both assessed using quality metrics and visual inspection. [Here](QC-UP) you'll find for each modality: 
 * A detailed description of the QC process
 * The current status of the QC process 
 * Example texts on the QC proces to include in your manuscript
 
-### Processing (1st-level analysis)
+## Processing (1st-level analysis)
 
 To make the proces from hypothesis to paper easier and faster, we aim to extract features from each datamodality that can be used with ease. [Here](UP-processing) you'll find for each modality:
 * The list of datafeatures we aim to extract
