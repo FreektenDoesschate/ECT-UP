@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary><b>Structural MRI</b></summary>
+  <summary><b>sMRI</b></summary>
 
 |                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
 |:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
@@ -16,7 +16,7 @@
 
 
 <details>
-  <summary><b>resting-state fMRI</b></summary>
+  <summary><b>rs-fMRI</b></summary>
 
 |                  Analysis                 | Papers | Software | Scripts | Status | Comments | Who? |
 |:-----------------------------------------:|:------:|:--------:|:-------:|:------:|:------:|----------|
