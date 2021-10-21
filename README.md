@@ -34,7 +34,6 @@ Multiple ECT-imaging datasets were acquired:
 |            SNOEP 	|    X    	|            	|     X    	|     X     	|
 |          SYNAPSE 	|    X    	|           	|     X    	|     X     	|
 
-See [here](#variables), for a list of demographic and clinical acquired variables
 </details>
 
 
