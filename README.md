@@ -9,7 +9,7 @@ This repository contains the pipeline for uniform preprocessing, quality control
 [Datatypes](#Datatypes)  
 [Preprocessing](#Preprocessing)  
 [Quality control](#Quality-control)  
-[Processing](#Processing-(1st-level-analysis)) 
+[Processing](#Processing-(1st-level-analysis))  
 [Dataformats](#Dataformats)  
 [Data availability](#Data-availability)  
 [Current projects](#Current-projects)
