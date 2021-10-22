@@ -2,6 +2,18 @@
 # ECT imaging data: Uniform (pre)processing 
 This repository contains the pipeline for uniform preprocessing, quality control and processing for electroconvulsive therapy (ECT) imaging data acquired in Rijnstate hospital Arnhem and AMC Amsterdam. Furthermore, we provide a description of the available data, documentation on the pipeline, and example pieces of text that describe the analysis for your manuscript. 
 
+##### Table of contents
+[Datasets](#Datasets)
+[Datatypes](#Datatypes)
+[Preprocessing](#Preprocessing)
+[Quality control](#Quality control)
+[Processing](#Processing)
+[Dataformats](#Dataformats)
+[Data availability](#Data availability)
+[Current projects](#Current projects)
+
+
+
 ## Datasets
 Multiple ECT-imaging datasets were acquired:
 
@@ -22,8 +34,7 @@ Multiple ECT-imaging datasets were acquired:
      * Status: awaiting for start acquisition. 
 
 
-## Acquired data
-
+## Datatypes
 
 <details>
 <summary> <b>Clinical and demographic data</b> </summary>
@@ -125,9 +136,9 @@ The goal is to perform uniform preprocessing for all modalities across datasets.
 * Example texts on the preprocessing procedurefor your manuscript.
 
 
-## Quality Control (QC)
+## Quality Control
 
-We aim to perform state-of-the-art quality control for each datamodality that was acquired. Quality was both assessed using quality metrics and visual inspection. [Here](UP-QC) you'll find for each modality: 
+We aim to perform state-of-the-art quality control (QC) for each datamodality that was acquired. Quality was both assessed using quality metrics and visual inspection. [Here](UP-QC) you'll find for each modality: 
 * A detailed description of the QC process
 * The current status of the QC process 
 * Example texts on the QC proces to include in your manuscript
@@ -141,7 +152,7 @@ To make the proces from hypothesis to paper easier and faster, we aim to extract
 * The current status of the analysis
 * Post-processing QC checks? 
 
-## Final dataformats
+## Dataformats
 
 We aim to provide two dataformats for your final analysis:
 * The dataformat that is provided by the specific 1st-level analysis (e.g., IC maps and weights for the ICA analysis on rs-fMRI data)
