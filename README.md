@@ -147,10 +147,10 @@ We aim to perform state-of-the-art quality control (QC) for each datamodality th
 * The current status of the QC process 
 * Example texts on the QC proces to include in your manuscript
 
-## Processing (1st level analysis)
+## Processing
 
 To make the proces from hypothesis to paper easier and faster, we aim to extract features from each datamodality that can be used with ease. [Here](UP-processing) you'll find for each modality:
-* The list of datafeatures we aim to extract
+* The list of datafeatures we aim to extract (1st level analysis)
 * The code we used for analysis
 * Essential papers on the performed analysis
 * The current status of the analysis
