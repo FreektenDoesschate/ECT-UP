@@ -2,7 +2,9 @@
 # ECT imaging data: Uniform (pre)processing 
 This repository contains the pipeline for uniform preprocessing, quality control and processing for electroconvulsive therapy (ECT) imaging data acquired in Rijnstate hospital Arnhem and AMC Amsterdam. Furthermore, we provide a description of the available data, documentation on the pipeline, and example pieces of text that describe the analysis for your manuscript. 
 
- </br> </br>
+ </br> 
+ -------------------
+ </br>
 
 #### Table of contents
 [Datasets](#Datasets) </br>
@@ -14,7 +16,9 @@ This repository contains the pipeline for uniform preprocessing, quality control
 [Data availability](#Data-availability) </br>
 [Current projects](#Current-projects)
 
- </br> </br>
+ </br> 
+ -------------------
+ </br>
 
 ## Datasets
 Multiple ECT-imaging datasets were acquired:
