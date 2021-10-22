@@ -19,7 +19,7 @@ This repository contains the pipeline for uniform preprocessing, quality control
 </br>
 
 ## Datasets
-*Multiple ECT-imaging datasets were acquired:*
+**Multiple ECT-imaging datasets were acquired:**
 
 <details>
 <summary> <b>Seizure threshold dataset</b> </summary> 
