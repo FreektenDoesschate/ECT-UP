@@ -7,7 +7,7 @@ This repository contains the pipeline for uniform preprocessing, quality control
  </br>
 
 #### Table of contents
-[Datasets](#Datasets) </br>
+[Datasets](#Datasets)  
 [Datatypes](#Datatypes) </br>
 [Preprocessing](#Preprocessing) </br>
 [Quality control](#Quality-control) </br>
