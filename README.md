@@ -157,10 +157,9 @@ To make the proces from hypothesis to paper easier and faster, we aim to extract
 * Post-processing QC checks? 
 
 ## Dataformats
-
-We aim to provide two dataformats for your final analysis:
+Raw and preprocessed niftis and EEG data will be stored in [BIDS](https://bids.neuroimaging.io/) format on the AMC psychiatry server. We aim to provide processed data (i.e., datafeatures) in two formats:
 * The dataformat that is provided by the specific 1st-level analysis (e.g., IC maps and weights for the ICA analysis on rs-fMRI data)
-* We aim to provide each feature in csv format that easy to load into your statistics software of choice (SPSS/MATLAB/R/Python etc)
+* In csv format that is easily transferable to your statistics software of choice (SPSS/MATLAB/R/Python etc)
 
 
 ## Data availability
