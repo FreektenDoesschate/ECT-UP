@@ -23,11 +23,11 @@ This repository contains the pipeline for uniform preprocessing, quality control
 
 <details>
 <summary> <b>Seizure threshold dataset</b> </summary> 
-</br> 
+<p>
 This dataset was acquired in order to study neuroimaging and clinical predictors of seizure threshold in ECT. See related papers for the <a href="https://link.springer.com/article/10.1007/s00406-012-0342-7/tables/1"> clinical characteristics</a> of the sample. For papers on the structural MRI data, see <a href="https://www.sciencedirect.com/science/article/pii/S1935861X12002094?casa_token=cAC-WLm3LVcAAAAA:gm4tDvav6UkNTPFnTLWB_7c2fY4bnB_o-BNe3HnInR2mOL0qw0iFPD7MNEdiymz7QwEy4v7DvGk"> here </a> and  <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2014.00169/full"> here </a>. And another paper on the <a href="https://www.nature.com/articles/mp201478"> resting-state functional MRI (rs-fMRI) data </a>. 
-</br>
-Study status: data acquisition is finished. 
-</br></br>
+
+Study status: data acquisition is finished.
+    </p>
 </details>
 
 
