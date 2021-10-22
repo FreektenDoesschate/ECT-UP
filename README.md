@@ -12,7 +12,7 @@ This repository contains the pipeline for uniform preprocessing, quality control
 [Data availability](#Data-availability) </br>
 [Current projects](#Current-projects)
 
-
+ </br> </br>
 
 ## Datasets
 Multiple ECT-imaging datasets were acquired:
