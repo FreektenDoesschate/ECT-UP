@@ -4,9 +4,13 @@ This repository contains the pipeline for uniform preprocessing, quality control
 
 ## Datasets
 Multiple ECT-imaging datasets were acquired:
-* Seizure threshold dataset
-     * This dataset was acquired in order to study neuroimaging and clinical predictors of seizure threshold in ECT. See related papers for the [clinical characteristics](https://link.springer.com/article/10.1007/s00406-012-0342-7/tables/1) of the sample. For papers on the structural MRI data, see [here](https://www.sciencedirect.com/science/article/pii/S1935861X12002094?casa_token=cAC-WLm3LVcAAAAA:gm4tDvav6UkNTPFnTLWB_7c2fY4bnB_o-BNe3HnInR2mOL0qw0iFPD7MNEdiymz7QwEy4v7DvGk) and [here](https://www.frontiersin.org/articles/10.3389/fpsyt.2014.00169/full). And another paper on the [Resting-state functional MRI (rs-fMRI) data](https://www.nature.com/articles/mp201478). 
+
+<details>
+<summary> <b>Seizure threshold dataset</b> </summary>
+     *  This dataset was acquired in order to study neuroimaging and clinical predictors of seizure threshold in ECT. See related papers for the [clinical characteristics](https://link.springer.com/article/10.1007/s00406-012-0342-7/tables/1) of the sample. For papers on the structural MRI data, see [here](https://www.sciencedirect.com/science/article/pii/S1935861X12002094?casa_token=cAC-WLm3LVcAAAAA:gm4tDvav6UkNTPFnTLWB_7c2fY4bnB_o-BNe3HnInR2mOL0qw0iFPD7MNEdiymz7QwEy4v7DvGk) and [here](https://www.frontiersin.org/articles/10.3389/fpsyt.2014.00169/full). And another paper on the [Resting-state functional MRI (rs-fMRI) data](https://www.nature.com/articles/mp201478). 
      *  Study status: data acquisition is finished. 
+ </details>
+    
 * Schema-ECT dataset
      * This dataset was acquired to study a combined psychological+ECT intervention. For a description of the intervention see this [paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2768949), with a brief clinical description of the sample [here](https://cdn.jamanetwork.com/ama/content_public/journal/jamanetworkopen/938527/zoi200468t1.png?Expires=1636631862&Signature=nWlCfYCET7ojxyvCuaFI5kitSWKRMCwvL~d5EF3blsRjbXMKw4zxSAsV6nRbeaOsUY6fYXKS9atC6FiCngE4EOIoVbNJuW4EsXfnjvY0SKLxkvh~GM3Ij9vdUhWI1YI4pGXww~h8amcKYizUJRt3ehFKxWZoASeQI9OoxXyw4orAge8AGmlhgv~bDyjb5KWUnoqiWtQUacBcz3nAdRAjh5El03wRKsSjvJZ7kybzNnv~LVRLQIYlcwAlxvK2KRshAtN-Vn2w3ULVxyriDm08ZGejQn0A4g3vfTO9VqTXvVlFqmFm3haArQakZGYBf3bRQG2Vo~2dL~-t09Khtn2qNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA). This dataset was acquired at both the Rijnstate and AMC site.
      * Status: data acquisition is finished.
