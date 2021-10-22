@@ -151,3 +151,6 @@ We aim to provide two dataformats for your final analysis:
 Data can be accessed in two ways (?):
 * All data (in raw, intermediate, processed, and csv-file format) will be available through the AMC psychiatry research server. 
 * By reasonable request, csv files on specific features can be provided to perform analysis outside of the server (e.g. on your own computer).
+
+## Current projects
+Click [here](UP-projects) for an overview of the current projects and their status. 
