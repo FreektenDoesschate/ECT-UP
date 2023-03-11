@@ -64,10 +64,10 @@ One of the current aims is to collect data on healthy controls that match patien
     
 |      Datasets     | pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold |    X    	|            	|          	|           	|
-|        Schema-ECT |    X    	|            	|     X    	|     X     	|
-|            SNOEP 	|    X    	|            	|     X    	|     X     	|
-|          SYNAPSE 	|    X    	|           	|     X    	|     X     	|
+| Seizure threshold (n = 91) |    X    	|            	|          	|           	|
+|        Schema-ECT (n = 66) |    X    	|            	|     X    	|     X     	|
+|            SNOEP 	(n = ?) |    X    	|            	|     X    	|     X     	|
+|          SYNAPSE  (n = 33)	|    X    	|           	|     X    	|     X     	|
 
 </details>
 
@@ -77,10 +77,10 @@ One of the current aims is to collect data on healthy controls that match patien
 
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold 	|    X    	|            	|          	|           	|
-|        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
-|             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+| Seizure threshold (n = 74)	|    X    	|            	|          	|           	|
+|        Schema-ECT (n = 66?)	|    X    	|            	|     X    	|     X     	|
+|             SNOEP (n = ?)	|    X    	|            	|     X    	|     X     	|
+|           SYNAPSE (n = 21)	|    X    	|      X     	|     X    	|     X     	|
   
 </details>    
     
@@ -90,10 +90,10 @@ One of the current aims is to collect data on healthy controls that match patien
 
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold 	|    X    	|            	|          	|           	|
-|        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
-|             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+| Seizure threshold (n = 45)	|    X    	|            	|          	|           	|
+|        Schema-ECT (n = 66?)	|    X    	|            	|     X    	|     X     	|
+|             SNOEP (n = ?)	|    X    	|            	|     X    	|     X     	|
+|           SYNAPSE (n = 19)	|    X    	|      X     	|     X    	|     X     	|
 
 </details>   
  
@@ -103,10 +103,10 @@ One of the current aims is to collect data on healthy controls that match patien
 
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold 	|    X    	|            	|          	|           	|
-|        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
-|             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+| Seizure threshold (n = 74?)	|    X    	|            	|          	|           	|
+|        Schema-ECT (n = 66?)	|    X    	|            	|     X    	|     X     	|
+|             SNOEP (n = ?)	|    X    	|            	|     X    	|     X     	|
+|           SYNAPSE (n = 21)	|    X    	|      X     	|     X    	|     X     	|
  
 </details>      
     
@@ -116,10 +116,10 @@ One of the current aims is to collect data on healthy controls that match patien
 
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold 	|       	|            	|          	|           	|
-|        Schema-ECT 	|    X    	|            	|     X    	|     X     	|
-|             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+| Seizure threshold (n = ?)	|       	|            	|          	|           	|
+|        Schema-ECT (n = ?)	|    X    	|            	|     X    	|     X     	|
+|             SNOEP (n = ?)	|    X    	|            	|     X    	|     X     	|
+|           SYNAPSE (n = 0)	|        	|           	|         	|          	|
 
 </details>     
 
@@ -128,10 +128,10 @@ One of the current aims is to collect data on healthy controls that match patien
 
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold 	|       	|            	|          	|           	|
-|        Schema-ECT 	|       	|            	|         	|           	|
-|             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+| Seizure threshold (n = 0)	|       	|            	|          	|           	|
+|        Schema-ECT (n = 0)	|       	|            	|         	|           	|
+|             SNOEP (n = ?)	|    X    	|            	|     X    	|     X     	|
+|           SYNAPSE (n = 21?)	|    X    	|      X     	|     X    	|     X     	|
 
 </details>     
 
@@ -141,10 +141,10 @@ One of the current aims is to collect data on healthy controls that match patien
 
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold 	|       	|            	|          	|           	|
-|        Schema-ECT 	|       	|            	|         	|           	|
-|             SNOEP 	|    X    	|            	|     X    	|     X     	|
-|           SYNAPSE 	|    X    	|      X     	|     X    	|     X     	|
+| Seizure threshold (n = 0)		|       	|            	|          	|           	|
+|        Schema-ECT (n = 0)		|       	|            	|         	|           	|
+|             SNOEP (n = ?)		|    X    	|            	|     X    	|     X     	|
+|           SYNAPSE (n = 33)		|    X    	|      X (12 sessions)    	|     X    	|     X     	|
 
 </details>   
 
