@@ -77,7 +77,7 @@ One of the current aims is to collect data on healthy controls that match patien
 
 |      Datasets     	| pre-ECT 	| during-ECT 	| post-ECT 	| follow-up 	|
 |:-----------------:	|:-------:	|:----------:	|:--------:	|:---------:	|
-| Seizure threshold (n = 74)	|    X    	|            	|          	|           	|
+| Seizure threshold (n = 74)	|    X    	|            	|     X    	|           	|
 |        Schema-ECT (n = 66?)	|    X    	|            	|     X    	|     X     	|
 |             SNOEP (n = ?)	|    X    	|            	|     X    	|     X     	|
 |           SYNAPSE (n = 21)	|    X    	|      X     	|     X    	|     X     	|
